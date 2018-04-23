@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pig/pig.iml" filepath="$PROJECT_DIR$/pig/pig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-auth/pig-auth.iml" filepath="$PROJECT_DIR$/pig/pig-auth/pig-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-common/pig-common.iml" filepath="$PROJECT_DIR$/pig/pig-common/pig-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-config/pig-config.iml" filepath="$PROJECT_DIR$/pig/pig-config/pig-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-modules/pig-daemon-service/pig-daemon-service.iml" filepath="$PROJECT_DIR$/pig/pig-modules/pig-daemon-service/pig-daemon-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-eureka/pig-eureka.iml" filepath="$PROJECT_DIR$/pig/pig-eureka/pig-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-gateway/pig-gateway.iml" filepath="$PROJECT_DIR$/pig/pig-gateway/pig-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-modules/pig-mc-service/pig-mc-service.iml" filepath="$PROJECT_DIR$/pig/pig-modules/pig-mc-service/pig-mc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-modules/pig-modules.iml" filepath="$PROJECT_DIR$/pig/pig-modules/pig-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-visual/pig-monitor/pig-monitor.iml" filepath="$PROJECT_DIR$/pig/pig-visual/pig-monitor/pig-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-modules/pig-sso-client-demo/pig-sso-client-demo.iml" filepath="$PROJECT_DIR$/pig/pig-modules/pig-sso-client-demo/pig-sso-client-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-modules/pig-upms-service/pig-upms-service.iml" filepath="$PROJECT_DIR$/pig/pig-modules/pig-upms-service/pig-upms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-visual/pig-visual.iml" filepath="$PROJECT_DIR$/pig/pig-visual/pig-visual.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-visual/pig-zipkin-db/pig-zipkin-db.iml" filepath="$PROJECT_DIR$/pig/pig-visual/pig-zipkin-db/pig-zipkin-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig/pig-visual/pig-zipkin-elk/pig-zipkin-elk.iml" filepath="$PROJECT_DIR$/pig/pig-visual/pig-zipkin-elk/pig-zipkin-elk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pigwork.iml" filepath="$PROJECT_DIR$/.idea/pigwork.iml" />
+    </modules>
+  </component>
+</project>

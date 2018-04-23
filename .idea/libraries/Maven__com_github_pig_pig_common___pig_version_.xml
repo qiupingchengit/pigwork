@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.pig:pig-common:${pig.version}">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/github/pig/pig-common/${pig.version}/pig-common-${pig.version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/github/pig/pig-common/${pig.version}/pig-common-${pig.version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/github/pig/pig-common/${pig.version}/pig-common-${pig.version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
